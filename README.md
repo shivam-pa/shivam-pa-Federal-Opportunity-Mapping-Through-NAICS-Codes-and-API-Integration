@@ -65,9 +65,4 @@ Interactive dashboard developed in Power BI (.pbix) to visualize NAICS distribut
 - Interactive dashboard for opportunity insights  
 - Final report summarizing project findings for stakeholders  
 
----
-
-✅ **Repository Description (for GitHub):**  
-> Map business and grant keywords to NAICS codes, integrate Grants.gov API, and visualize federal funding opportunities through an interactive Power BI dashboard.  
- 
-
+--- 
